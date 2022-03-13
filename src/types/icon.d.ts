@@ -1,7 +1,7 @@
 import { Color } from "./color";
 
 export type IconProps = {
-  size?: string | number;
+  size?: number;
   color?: Color;
   rotate?: number;
 };
